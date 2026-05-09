@@ -18,7 +18,7 @@ export default function Hero() {
                     </h1>
 
                     <div className="text-2xl md:text-3xl font-semibold text-gray-700 dark:text-slate-300 h-10">
-                        <TypingEffect text="MERN Stack Developer" />
+                        <TypingEffect text="Full Stack Developer" />
                     </div>
 
                     <p className="text-gray-600 dark:text-slate-400 text-lg max-w-xl leading-relaxed">
