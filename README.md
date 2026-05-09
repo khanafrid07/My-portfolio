@@ -1,0 +1,3 @@
+# Afrid Khan
+
+THIS  IS MY PORTFOLIO
