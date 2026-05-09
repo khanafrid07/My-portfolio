@@ -71,7 +71,7 @@ export default function Footer() {
 
                                 <li>
                                     <a
-                                        href="#"
+                                        href="https://www.linkedin.com/in/afrid-khan08"
                                         className="hover:text-orange-400 transition"
                                     >
                                         LinkedIn
