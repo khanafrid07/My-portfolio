@@ -101,6 +101,7 @@ export default function Navbar({
                     <a
                         href="/resume.pdf"
                         target="_blank"
+                        download="resume.pdf"
                         className="
                             hidden sm:flex
                             items-center gap-2
@@ -109,6 +110,7 @@ export default function Navbar({
                             bg-orange-500
                             text-black
                             font-medium
+                            cursor-pointer
                             hover:bg-orange-400
                             transition duration-300
                         "
