@@ -21,7 +21,7 @@ export default function TypingEffect({ text }: Props) {
     }, [text]);
 
     return (
-        <div>
+        <div key={idx}>
             {currentText}|
         </div>
     );
