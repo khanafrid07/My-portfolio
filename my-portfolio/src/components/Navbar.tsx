@@ -99,9 +99,9 @@ export default function Navbar({
 
                     {/* RESUME BUTTON */}
                     <a
-                        href="/resume.pdf"
+                        href="/Resume.pdf"
                         target="_blank"
-                        download="resume.pdf"
+                        download="Resume.pdf"
                         className="
                             hidden sm:flex
                             items-center gap-2
