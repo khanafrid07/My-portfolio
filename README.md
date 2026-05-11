@@ -49,7 +49,7 @@ Passionate about building scalable web applications and modern user interfaces.
 
 ## 📬 Contact
 - GitHub: https://github.com/khanafrid07  
-- LinkedIn: https://linkedin.com/in/afridkhan08  
+- LinkedIn: https://linkedin.com/in/afrid-khan08  
 - Email: k0786khan786@gmail.com  
 
 ---
